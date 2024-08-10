@@ -4,5 +4,5 @@ programming languages:
 python
 html&css&js
 
-instagram:
-https://instagram.com/mmmo0d
+socialMedia platforms
+https://mmmo0d.carrd.co
